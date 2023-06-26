@@ -1,2 +1,5 @@
 python detail notes
 all the levels of python
+
+print statement : print("Hello world")
+input statement int(input())
